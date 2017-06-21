@@ -23,7 +23,7 @@ $my_addon->add_field( 'myaddon_first_name', 'First Name', 'text' );
 *
 * "Sale Text" field with default text
 * 
-* You can add default text within an input field using the 4th argument.$_COOKIE
+* You can add default text within an input field using the 4th argument.
 * In this example, "FOR SALE" will appear by default in the import field.
 */
 
