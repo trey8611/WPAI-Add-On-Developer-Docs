@@ -8,6 +8,10 @@
 * add_field arguments: $field_slug, $field_name, $field_type, $enum_values = null, $tooltip = "", $is_html = true, $default_text = ''
 */
 
+// Usage:
+
+$my_addon->add_field( 'field_name', 'Field Name', 'textarea', null, 'Tooltip', false, 'Default Text' );
+
 /** Example 1
 *
 * "First Name" Field
